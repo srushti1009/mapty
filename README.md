@@ -1,6 +1,3 @@
-<img src="https://github.com/catherineisonline/mapty-workouts/blob/main/images/project-preview.png?raw=true" ></img>
-
-# Mapty
 
 Mapty is a map application made with Vanilla JavaScript to store workouts like running and cycling.
 
